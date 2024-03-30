@@ -1,4 +1,21 @@
 ```
+Doc:
+
+- Stable-baselines3: https://stable-baselines3.readthedocs.io/en/master/
+- - https://stable-baselines3.readthedocs.io/en/master/guide/examples.html
+- - https://stable-baselines3.readthedocs.io/en/master/guide/quickstart.html
+
+- [Entendi que esta DEPRECATED] Stable-baselines: https://stable-baselines.readthedocs.io/en/master/
+```
+
+```
+Esse tutorial parece muito bom: https://community.ops.io/akilesh/reinforcement-learning-in-super-mario-bros-48a
+O unico problema, foi a questão do seed, mostrado em algum
+comentario mais a baixo aqui.
+```
+
+
+```
 30-03-2024 05:57
 
 main3.py esta rodando. Plotando visualmente, a tentativa de equilibrar uma barra
