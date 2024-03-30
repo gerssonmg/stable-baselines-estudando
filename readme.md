@@ -1,4 +1,13 @@
 ```
+Proximos passos:
+- Tutorial de Stable baselines3 do @sentdex: 
+- - https://www.youtube.com/watch?v=XbWhJdQgi7E&ab_channel=sentdex
+- - https://pythonprogramming.net/introduction-reinforcement-learning-stable-baselines-3-tutorial/
+- SB3 + Starcraft2 (rodar no Windows): https://www.youtube.com/watch?v=q59wap1ELQ4&ab_channel=sentdex
+- (Vou tentar apenas pelos tutorias do @sentdex, primeiro) Serie de aula sobre Reinforcement Learning: https://www.youtube.com/watch?v=2pWv7GOvuf0&ab_channel=GoogleDeepMind
+```
+
+```
 Doc:
 
 - Stable-baselines3: https://stable-baselines3.readthedocs.io/en/master/
@@ -6,6 +15,16 @@ Doc:
 - - https://stable-baselines3.readthedocs.io/en/master/guide/quickstart.html
 
 - [Entendi que esta DEPRECATED] Stable-baselines: https://stable-baselines.readthedocs.io/en/master/
+
+- Artigo no Medium: https://towardsdatascience.com/stable-baselines-a-fork-of-openai-baselines-reinforcement-learning-made-easy-df87c4b2fc82
+
+
+```
+
+```
+Esses dois links, me parecem bons tutorias. Não vi ainda:
+- https://spinningup.openai.com/en/latest/
+- https://huggingface.co/learn/deep-rl-course/unit0/introduction
 ```
 
 ```
